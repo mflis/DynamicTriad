@@ -24,7 +24,7 @@ ask() {
     echo $ret
 }
 
-export EIGEN3_INCLUDE_DIR=" /home/ubuntu/anaconda3/envs/tensorflow_p27/include/eigen3"
+export EIGEN3_INCLUDE_DIR="/usr/include/eigen3"
 
 
 
